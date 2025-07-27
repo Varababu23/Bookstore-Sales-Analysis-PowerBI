@@ -1,4 +1,5 @@
 Bookstore Sales & Profitability Analysis using Power BI
+
 An interactive dashboard analyzing a comprehensive book sales dataset to provide actionable recommendations on pricing, inventory, and publisher strategy.
 
 📊 Project Objective
